@@ -1,0 +1,6 @@
+argparse
+pandas
+pathlib
+pytesseract
+scikit-build
+opencv-python
